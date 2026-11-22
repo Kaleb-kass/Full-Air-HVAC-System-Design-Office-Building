@@ -5,9 +5,8 @@ for a 1,325 m² single-storey office building in **Copenhagen, Denmark**: airflo
 and recirculation strategy, supply/return/exhaust vent selection, duct layout and sizing, pressure-drop
 calculation and air handling unit (AHU) fan specification, with a 3D Revit model of the supply network.
 
-Group project for **Heating, Ventilation and Air Conditioning Systems** (INQ0091662), M.Sc. Energy Engineering,
-University of Padova, May 2026. Authors: Kaleb Kassa Lafebo and Abenezer Leulseged Wolde.
-Instructors: Prof. Michele De Carli, Eng. Marco Marigo.
+M.Sc. Energy Engineering, University of Padova, May 2026. Developed by Kaleb Kassa Lafebo together with
+Abenezer Leulseged Wolde, supervised by Prof. Michele De Carli and Eng. Marco Marigo.
 
 📄 **Full report:** [`report/Full-Air-HVAC-Design-Report.pdf`](report/Full-Air-HVAC-Design-Report.pdf)
 

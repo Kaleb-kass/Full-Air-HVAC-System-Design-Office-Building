@@ -1,0 +1,11 @@
+# Office / CAD temporary and backup files
+~$*
+*.bak
+*.dwl
+*.dwl2
+*.rvt.bak
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
